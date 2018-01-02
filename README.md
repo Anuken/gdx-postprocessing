@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/Anuken/gdx-postprocessing.svg)](https://jitpack.io/#Anuken/gdx-postprocessing)
+
 ## libgdx-contribs-postprocessing
 A lightweight, GLES2-only library to ease development and inclusion of post-processing effects in libgdx applications and games.
 
